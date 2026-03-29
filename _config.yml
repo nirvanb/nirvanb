@@ -11,7 +11,7 @@ title: Nirvan Bhattachayya
 email: nirvanbhatta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nirvan Bhattacharyya's Website.
-baseurl: "https://nirvanb.github.io/"
+baseurl: "https://nirvanb.github.io/nirvanb"
 url: ""
 
 include:
