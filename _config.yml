@@ -20,7 +20,7 @@ include:
 sass:
   sass_dir: _sass
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 # Conversion
 markdown: kramdown
