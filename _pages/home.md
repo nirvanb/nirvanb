@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Nirvan Bhattacharyya - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Nirvan Bhattacharyya, Atmospheric Scientist at Goethe University Frankfurt"
 sitemap: false
 permalink: /
 ---
