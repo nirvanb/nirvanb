@@ -6,7 +6,7 @@ sitemap: false
 permalink: /blog/
 ---
 
-# Air Care by Nirvan Bhattacharyya
+# Air Mail by Nirvan Bhattacharyya
 ### A Blog about Atmospheric Science, Travel, and Other
 
 <div>
