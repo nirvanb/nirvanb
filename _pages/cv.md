@@ -7,15 +7,15 @@ permalink: /CV
 ---
 
 ![image]({{ site.url }}{{ site.baseurl }}/images/teampic/NB_profpic.jpg){: width="400" padding="100" style="float: left"}
-# Nirvan Bhattacharyya, PhD
-###   RESEARCH APPOINTMENTS
-  2025 - Present: Postdoc, Curtius Group, Goethe University Frankfurt
+# &nbsp;Nirvan Bhattacharyya, PhD
+###   &nbsp;RESEARCH APPOINTMENTS
+  &nbsp;2025 - Present: Postdoc, Curtius Group, Goethe University Frankfurt
 
-  2023-2025: Postdoc, Donahue Group, Carnegie Mellon University
-###   EDUCATION
-  2018-2023 PhD Chemical Engineering, University of Texas at Austin, Advisor: Professor Lea Hildebrandt Ruiz
+  &nbsp;2023-2025: Postdoc, Donahue Group, Carnegie Mellon University
+###   &nbsp;EDUCATION
+  &nbsp;2018-2023 PhD Chemical Engineering, University of Texas at Austin, Advisor: Professor Lea Hildebrandt Ruiz
 
-  2014-2018 BSE Chemical Engineering, University of Michigan
+  &nbsp;2014-2018 BSE Chemical Engineering, University of Michigan
 
 <div>
   <object data="{{ site.url }}{{ site.baseurl }}/images/teampic/Bhattacharyya_CV__Website_03042026.pdf" width="1000" height="1000" type="application/pdf"></object>
