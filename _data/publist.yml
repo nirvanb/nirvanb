@@ -1,3 +1,11 @@
+- title: "Isoprene chemistry under upper-tropospheric conditions"
+  image: dummy.png
+  description: 
+  authors: D.M. Russell, F. Kunkler, J. Shen, M. Kohl, J. DeVivo, N. Bhattacharyya, C. Xenofontos, H. Klebach, L. Caudillo-Plath, M. Simon, E. Ahongshangbam, J. Almeida, A. Amorim, H. Beckmann, M. Busato, M.R. Canagaratna, A. Chassaing, R. Cruz-Simbron, L. Dada, P. Holzbeck, B. Judmaier, M. Kaniyodical Sebastian, P. Koemets, T. Krüger, L. Liu, M. Martinez, B. Mentler, A. Morawiec, A. Onnela, T. Petäjä, P. Rato, M. Reza, S. Ruhl, W. Scholz, E. Sommer, A. Tome, Y. Tong, J. Top, N. Silas Umo, G.R. Unfer, R.X. Ward, J. Weissbacher, B. Yang, W. Yu, M. Zauner-Wieczorek, I. Zgheib, J. Zhang, Z. Zheng, I. El Haddad, R.C. Flagan, A. Hansel, H. Junninen, M. Kulmala, K. Lehtipalo, J. Lelieveld, O. Möhler, S. Schobesberger, R. Volkamer, P.M. Winkler, D.R. Worsnop, T. Christoudias, A. Pozzer, N.M. Donahue, H. Harder, J. Kirkby, X-C He, J. Curtius
+    url: https://doi.org/10.1038/s41467-025-64229-w
+    display: Nat. Comm. (2025)
+  highlight: 0
+
 - title: "Isoprene Aerosol Growth in the Upper Troposphere: Application of the Diagonal Volatility Basis Set to CLOUD Chamber Measurements"
   image: IPdVBS_ESTAir.jpeg
   description: Here we apply the diagonal volatility basis set to understand isoprene nanoparticle growth and find that non-reactive condensational growth controls growth under low-temperature, low-acid conditons.
@@ -6,5 +14,7 @@
     url: https://pubs.acs.org/doi/full/10.1021/acsestair.5c00106
     display: EST Air (2025)
   highlight: 1
+
+
 
 
