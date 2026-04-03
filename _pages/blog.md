@@ -3,7 +3,7 @@ title: "Air Mail - Blog"
 layout: texlay
 excerpt: "Air Care - Blog"
 sitemap: false
-permalink: /
+permalink: /blog/
 ---
 
 # Air Care by Nirvan Bhattacharyya
