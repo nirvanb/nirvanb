@@ -13,7 +13,7 @@ My work focuses on experimental atmospheric science, with measurements spanning 
 My most recent work has focused on the formation and growth of nanoparticles, particularly derived from isoprene. I contributed to several works on isoprene oxidation and new particle formation at cold temperatures. By combining data from a wide range of gas and particle phase mass spectrometers, I was able to assess using the diagonal volatility basis set (dVBS) framework that growth of isoprene particles under low acid conditions is controlled by a small set of compounds with condense non-reactively.
 
 ### Multiphase Chemistry
-![image]({{ site.url }}{{ site.baseurl }}/images/picpic/2DSVBS_ExampleGraph.png)
+![image]({{ site.url }}{{ site.baseurl }}/images/picpic/2DSVBS_ExampleGraph.png){: style="width:100%"}
 Aerosols evolve as they are transported through the atmosphere and the history of a particle population can have a strong impact on its future evolution. I have explored the impact of hydrolysis processes in isoprene aerosol and will further explore the impact of acid-catalyzed reactions on particle composition. Understanding these processes demands detailed particle chemical composition measurements, including my expertise with the Filter Inlet for Gases and AEROsols (FIGAERO) and aerosol mass spectrometer (AMS/ACSM). However, the evolution of these processes in the droplet phase will demand additional instrumentation. Furthermore, understanding uptake and reaction in droplets will require extension of the volatility basis set into solubility space and incorporation of complex aqueous phase reaction chemistry.
 
 ### Emerging Contaminants
