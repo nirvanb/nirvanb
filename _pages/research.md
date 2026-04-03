@@ -1,7 +1,7 @@
 ---
-title: "Research Areas"
+title: "Research"
 layout: textlay
-excerpt: "Research Areas"
+excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---
