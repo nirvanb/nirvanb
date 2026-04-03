@@ -1,15 +1,28 @@
 ---
-title: "Allan Lab - Research"
+title: "Research Areas"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Research Areas"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Areas
+My work focuses on experimental atmospheric science, with measurements spanning various laboratory scales and field locations. The air is a tremendous and complex reactor, forming from individual 
 
-Updating soon -- stay put. (Aug 11 2023)
+### Nanoparticle Formation and Growth
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+### Multiphase Chemistry
+
+### Emerging Contaminants
+
+# Methods and Instrumentation
+### Chemical Ionization Mass Spectrometry
+
+#### Particle Chemical Composition
+
+### Chamber and Flow Tube Studes
+
+### Field Measurements
+
 
 
