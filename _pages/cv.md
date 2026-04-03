@@ -6,7 +6,7 @@ sitemap: false
 permalink: /CV
 ---
 
-![image](https://github.com/nirvanb/nirvanb/blob/gh-pages/images/teampic/NB_profpic.jpg){: style="float: left"}
+![image](../images/teampic/NB_profpic.jpg){: style="float: left"}
 # Nirvan Bhattacharyya, PhD
 ## RESEARCH APPOINTMENTS
 ### 2025 - Present: Postdoc, Curtius Group, Goethe University Frankfurt
@@ -15,4 +15,8 @@ permalink: /CV
 ### 2018-2023 PhD Chemical Engineering, University of Texas at Austin
 -Advisor: Professor Lea Hildebrandt Ruiz
 ### 2014-2018 BSE Chemical Engineering, University of Michigan
+
+<div>
+  <object data="../images/teampic/Bhattacharyya_CV__Website_03042026.pdf" width="1000" height="1000" type="application/pdf"></object>
+</div>
 
