@@ -13,7 +13,8 @@ permalink: /blog/
   <ul style="list-style-type:None;">
     {% for post in site.posts %}
       <li>
-        <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <i><h5>{{ page.date | date_to_string }}</h5></i>
+        <u><h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3></u>
         {{ post.excerpt }}
       </li>
     {% endfor %}
