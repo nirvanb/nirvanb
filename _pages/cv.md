@@ -6,8 +6,8 @@ sitemap: false
 permalink: /CV
 ---
 
-# Nirvan Bhattacharyya, PhD
 ![image](https://github.com/nirvanb/nirvanb/blob/gh-pages/images/teampic/NB_profpic.jpg){: style="float: left"}
+# Nirvan Bhattacharyya, PhD
 ## RESEARCH APPOINTMENTS
 ### 2025 - Present: Postdoc, Curtius Group, Goethe University Frankfurt
 ### 2023-2025: Postdoc, Donahue Group, Carnegie Mellon University
