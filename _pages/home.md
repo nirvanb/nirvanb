@@ -10,3 +10,5 @@ Hello! I'm Nirvan Bhattacharyya, an atmospheric scientist studying particle form
 
 My research utilizes state-of-the-science mass spectrometers to understand the chemical complexity of gasses and particles in the atmosphere, both indoors and outdoors. I marry laboratory and field measurements to understand novel emission sources and key processes. You can find my work on [Google Scholar](https://scholar.google.com/citations?user=LOxv3oIAAAAJ&hl=en&oi=ao).
 
+There may be [opportunities]({{ site.url }}{{ site.baseurl }}/opportunities) to get involved with my work or with the Curtius group! Please feel free to reach out!
+
