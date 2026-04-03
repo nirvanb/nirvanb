@@ -6,7 +6,7 @@ sitemap: false
 permalink: /CV
 ---
 
-![image]({{ site.url }}{{ site.baseurl }}/images/teampic/NB_profpic.jpg){: width="400" style="float: left; padding-right:25px"}
+![image]({{ site.url }}{{ site.baseurl }}/images/teampic/NB_profpic.jpg){: width="350" style="float: left; padding-right:25px"}
 ## Nirvan Bhattacharyya, PhD
 ### RESEARCH APPOINTMENTS
 2025 - Present: Postdoc, Curtius Group, Goethe University Frankfurt \
