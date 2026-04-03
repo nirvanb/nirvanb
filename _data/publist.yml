@@ -15,6 +15,121 @@
     display: EST Air (2025)
   highlight: 1
 
+- title: "A diagonal volatility basis set to assess the condensation of organic vapors onto particles"
+  image: dummy.png
+  description:
+  authors: B. Lopez, N. Bhattacharyya, J. DeVivo, M. Wang, L. Caudillo-Plath, M. Surdu, F. Bianchi, Z. Brasseur, A., D. Chen, J. Duplissy, X-C He, V. Hofbauer, N. Mahfouz, V. Makhmutov, R. Marten, B. Mentler, M. Philippov, M. Schervish, D.S. Wang, S.K. Weber, A. Welti, I. El Haddad, K. Lehtipalo, M. Kulmala, D. Worsnop, J. Kirkby, R.L. Mauldin, D. Stolzenburg, S. Schobesberger, R. Flagan, N.M. Donahue
+  link:
+    url: https://doi.org/10.1039/D5EA00062A
+    display: ES:A (2025)
+  highlight: 0
 
+- title: "New particle formation from isoprene under upper-tropospheric conditions"
+  image: dummy.png
+  description:
+  authors: J. Shen, D.M. Russell, J. DeVivo, F. Kunkler, R. Baalbaki, B. Mentler, W. Scholz, W. Yu, L. Caudillo-Plath, E. Sommer, E. Ahongshangbam, D. Alfaouri, J. Almeida, A. Amorim, L.J. Beck, H. Beckmann, M. Bertheusel, N. Bhattacharyya, M.R. Canagaratna, A. Chassaing, R. Cruz-Simbron, L. Dada, J. Duplissy, H. Gordon, M. Granzin, L. Große Schute, M. Heinritzi, S. Iyer, H. Klebach, T. Krüger, A. Kürten, M. Lampimäki, L. Liu, B. Lopez, M. Martinez, A. Morawiec, A. Onnela, M. Peltola, P. Rato, M. Reza, S. Richter, B. Rörup, M. Kaniyodical Sebastian, M. Simon, M. Surdu, K. Tamme, R.C. Thakur, A. Tomé, Y. Tong, J. Top, N. Umo, G. Unfer, L. Vettikkat, J. Weissbacher, C. Xenofontos, B. Yang, M. Zauner- Weiczorek, J. Zhang, Z. Zhang, U. Baltensperger, T. Christoudias, R.C. Flagan, I. El Haddad, H. Junninen, O. Möhler, I. Riipinen, U. Rohner, S. Schobesberger, R. Volkamer, P.M. Winkler, A. Hansel, K. Lehtipalo, N.M. Donahue, J. Lelieveld, H. Harder, M. Kulmala, D.R. Worsnop, J. Kirkby, J. Curtius, X-C He
+  link:
+    url: https://doi.org/10.1038/s41586-024-08196-0
+    display: Nature (2024)
+  highlight: 0
+
+- title: "Air pollution from unconventional oil and gas development in the Eagle Ford Shale"
+  image: dummy.png
+  description:
+  authors: K.N. McPherson, L.G. Jahn, C.G. Masoud, N. Bhattacharyya, M. Modi, K. Patel, P. Abue, D.C. Blomdahl, P.K. Misztal, L. Hildebrandt Ruiz
+  link:
+    url: https://doi.org/10.1016/j.atmosenv.2024.120812
+    display: Atmospheric Environment (2024)
+  highlight: 0
+
+- title: "Emissions from hydrogen peroxide disinfection and their interaction with mask surfaces"
+  image: dummy.png
+  description:
+  authors: P. Abue, N. Bhattacharyya, M. Tang, D.C. Blomdahl, L.G. Jahn, D.T Allen, R.L. Corsi, A. Novoselac, P.K. Misztal, L. Hildebrandt Ruiz
+  link:
+    url: https://doi.org/10.1021/acsengineeringau.3c00036
+    display: ACS Eng. Au (2024)
+  highlight: 0
+
+- title: "High Chlorine Concentrations in an Unconventional Oil and Gas Development Region and Impacts on Atmospheric Chemistry"
+  image: dummy.png
+  description:
+  authors: C.G. Masoud, M. Modi, N. Bhattacharyya, L.G. Jahn, K.N. McPherson, P. Abue, K. Patel, D.T. Allen, L. Hildebrandt Ruiz
+  link:
+    url: https://doi.org/10.1021/acs.est.3c04005
+    display: EST (2023)
+  highlight: 0
+
+- title: "Influence of Application Method on Disinfectant Byproduct Formation during Indoor Bleach Cleaning: A Case Study on Phenol Chlorination"
+  image: dummy.png
+  description:
+  authors: L.G. Jahn, N. Bhattacharyya, D.C. Blomdahl, M. Tang, P. Abue, A. Novoselac, L. Hildebrandt Ruiz, P.K. Misztal
+  link:
+    url: https://doi.org/10.1021/acsestair.3c00011
+    display: EST Air (2023)
+  highlight: 0
+
+- title: "Different Chlorine and Hydroxyl Radical Environments Impact m-xylene Oxidation Products"
+  image: mxylene_pub_abstractimage.png
+  description: Chlorine and hydroxyl oxidation of m-xylene shows key differences in product formation and fate.
+  authors: N. Bhattacharyya, M. Modi, L.G. Jahn, L. Hildebrandt Ruiz
+  link:
+    url: https://doi.org/10.1039/D3EA00024A
+    display: ES:A (2023)
+  highlight: 1
+
+- title: "Bleach Emissions Interact Substantially with Surgical and KN95 Mask Surfaces"
+  image: bleach_pub_abstractimage.jpeg
+  description: Masks provide a long-term reservoir for toxic bleach emissions, leading to excessive exposures for sanitation workers.
+  authors: N. Bhattacharyya, M. Tang, D.C. Blomdahl, L.G. Jahn, P. Abue, D.T. Allen, R.L. Corsi, A. Novoselac, P.K. Misztal, L. Hildebrandt Ruiz
+  link:
+    url: https://doi.org/10.1021/acs.est.2c07937
+    display: EST (2023)
+  highlight: 1
+
+- title: "Comparison of the yield and chemical composition of secondary organic aerosol generated from the OH and Cl oxidation of decamethylcyclopentasiloxane"
+  image: dummy.png
+  description:
+  authors: A.M. Avery, M.W. Alton, M. Canagaratna, J.E. Krechmer, D.T. Sueper, N. Bhattacharyya, L. Hildebrandt Ruiz, W.H. Brune, A.T. Lambe
+  link:
+    url: https://doi.org/10.1021/acsearthspacechem.2c00304
+    display: ACS Earth and Space Chem. (2023)
+  highlight: 0
+
+- title: "Volatile organic compound (VOC) emissions from the usage of benzalkonium chloride and other disinfectants based on quaternary ammonium compounds"
+  image: dummy.png
+  description:
+  authors: L.G. Jahn, M. Tang, D.C. Blomdahl, N. Bhattacharyya, P. Abue, A. Novoselac, L. Hildebrandt Ruiz, P.K. Misztal
+  link:
+    url: https://doi.org/10.1039/D2EA00054G
+    display: ES:A (2023)
+  highlight: 0
+
+- title: "Comparison of secondary organic aerosol generated from the oxidation of laboratory precursors by hydroxyl radicals, chlorine atoms, and bromine atoms in an oxidation flow reactor"
+  image: dummy.png
+  description:
+  authors: A.T. Lambe, A.M. Avery, N. Bhattacharyya, D.S. Wang, M. Modi, C.G. Masoud, L. Hildebrandt Ruiz, W.H. Brune
+  link:
+    url: https://doi.org/10.1039/d2ea00018k
+    display: ES:A (2022)
+  highlight: 0
+
+- title: "Environmental impacts of wheat-based vodka production using life cycle assessment"
+  image: dummy.png
+  description:
+  authors: N. Bhattacharyya, A. Goodell, S. Rogers, A.H. Demond 
+  link:
+    url: https://doi.org/10.1016/j.jclepro.2019.05.226
+    display: J. Cleaner Production (2019)
+  highlight: 0
+
+- title: "Enhancement of Aqueous Solubility of Organochlorine Pesticides by Ethanol"
+  image: dummy.png
+  description:
+  authors: M. Otero-Diaz, B. Woo, N. Bhattacharyya, A.H. Demond. 
+  link:
+    url: https://doi.org/10.1061/(ASCE)EE.1943-7870.0001241
+    display: J. Env. Eng. (2017)
+  highlight: 0
 
 
