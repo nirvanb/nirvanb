@@ -10,7 +10,7 @@ permalink: /blog/
 ### A Blog about Atmospheric Science, Travel, and Other
 
 <div>
-  <ul>
+  <ul style="list-style-type:None;">
     {% for post in site.posts %}
       <li>
         <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
