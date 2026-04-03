@@ -1,9 +1,9 @@
 ---
-title: "Research"
+title: "Research Areas"
 layout: textlay
-excerpt: "Research"
+excerpt: "Research Areas"
 sitemap: false
-permalink: /research
+permalink: /research/
 ---
 
 # Research Areas
