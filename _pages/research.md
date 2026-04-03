@@ -3,7 +3,7 @@ title: "Research"
 layout: textlay
 excerpt: "Research"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 # Research Areas
