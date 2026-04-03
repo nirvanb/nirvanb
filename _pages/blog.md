@@ -1,6 +1,6 @@
 ---
 title: "Air Mail - Blog"
-layout: texlay
+layout: blog
 excerpt: "Air Care - Blog"
 sitemap: false
 permalink: /blog/
