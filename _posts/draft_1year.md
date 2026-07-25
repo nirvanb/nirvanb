@@ -20,9 +20,15 @@ Frankfurters, for their part, do little to dispel this notion. Tourism is undoub
 
 Perhaps these locals just want the city for themselves, because after a year here, I think they sell it somewhat short.  Frankfurt has been good to me in this first year, especially as summer has rolled back in. Heat waves aside, there are few things more enjoyable than a beer or [*Apfelwein*](https://de.wikipedia.org/wiki/Apfelwein) at a Frankfurt kiosk, or sunning yourself in the evenings last rays while sitting on the river Main. Green sauce, a dish apparently only popular in Frankfurt, is beloved enough to have a 10-day [festival](https://www.gruene-sosse-festival.de/en/) where they turn the sauce into ice cream![^1] 
 
+[Grüne Soße Eis](/images/post_img/GruneSoßeEis_crop.JPG)
+
 Even winter in Frankfurt has something to offer. While cold, it is frankly still far less cold and snowy than the winters I endured as child in Michigan or for a couple of years in Pittsburgh. The gray lid of clouds that descends over the city is unfortunate, but my work at the Taunus Observatory gave me a chance nearly every week to drive above this forbidding layer of mist and break into the sunlight. There's nothing quite like it![^2]
 
+[Taunus Observatory View, Winter 2026](/images/post_img/TO_Winter_2026.JPG)
+
 A year in, I'm fairly satisfied with my move. There are negatives (I really do miss having AC!), but by and large, I have an opportunity to work on lots of projects, to teach, to mentor, and to explore in way I hardly could have imagined even a few years ago. Just this year, I've spent time in Oslo, Lisbon, Cologne, Berlin, Paris, and Geneva! In the future, I'll dive more into the dissonance of feeling so fortunate even as the world gets harder and worse for so many others, and how the future of environmental science looks weak as nations turn away from global cooperation and toward confrontation. But for now, 1 year in, I feel very lucky to be where I am.
+
+[Paris!](/images/post_img/Paris_Beret.JPG)
 
 [^1]: For Germans, this is an almost sacrilegious amount of adventurousness. They get angry when I suggest toasting bread for *Abendbrot*. 
 [^2]: On the other hand, getting the car stuck in the snow and having to climb up to the observatory carrying bottles of butanol is also a novel experience... one I repeated several times...
