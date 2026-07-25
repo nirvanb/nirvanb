@@ -18,11 +18,11 @@ Frankfurt (or Frankfurt am Main) lacks the hedonistic, discotec reputation of Be
 
 Frankfurters, for their part, do little to dispel this notion. Tourism is undoubtedly a boon to the city's economy, but residents seem to have few recommendations for an intrigued vistor. Frankfurt's old town, they are quick to point out, was bombed flat in the war, with the exception of the *Frankfurter Dom*, whose spire was useful enough as a way point for pilots to keep the old church standing. All the surrounding buildings are recreations, a facsimile of ancient times. If you want to see something really old, you should get on a train to Wiesbaden, they'll tell you ruefully. 
 
-Perhaps these locals just want the city for themselves, because after a year here, I think they sell it somewhat short.  Frankfurt has been good to me in this first year, especially as summer has rolled back in. Heat waves aside, there are few things more enjoyable than a beer or [*Apfelwein*](https://de.wikipedia.org/wiki/Apfelwein) at a Frankfurt kiosk, or sunning yourself in the evenings last rays while sitting on the river Main. Green sauce, a dish apparently only popular in Frankfurt, is beloved enough to have a 10-day [festival](https://www.gruene-sosse-festival.de/en/) where they turn the sauce into ice cream![^1] 
+Perhaps these locals just want the city for themselves, because after a year here, I think they sell it somewhat short.  Frankfurt has been good to me in this first year, especially as summer has rolled back in. Heat waves aside, there are few things more enjoyable than a beer or [*Apfelwein*](https://de.wikipedia.org/wiki/Apfelwein) at a Frankfurt kiosk, or sunning yourself in the evenings last rays while sitting beside the river Main. Green sauce, a dish apparently only popular in Frankfurt, is beloved enough to have a [10-day festival](https://www.gruene-sosse-festival.de/en/) where they turn the sauce into ice cream![^1] 
 
 ![Grüne Soße Eis]({{ site.url }}{{ site.baseurl }}/images/post_img/GruneSoßeEis_crop.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Even winter in Frankfurt has something to offer. While cold, it is frankly still far less cold and snowy than the winters I endured as child in Michigan or for a couple of years in Pittsburgh. The gray lid of clouds that descends over the city is unfortunate, but my work at the Taunus Observatory gave me a chance nearly every week to drive above this forbidding layer of mist and break into the sunlight. There's nothing quite like it![^2]
+Even winter in Frankfurt has something to offer. While cold, it is less cold and snowy than the winters I endured as child in Michigan or for a couple of years in Pittsburgh. The gray lid of clouds that descends over the city is unfortunate, but my work at the Taunus Observatory gave me a chance nearly every week to drive above this forbidding layer of mist and break into the sunlight. There's nothing quite like it![^2]
 
 ![Taunus Observatory View, Winter 2026]({{ site.url }}{{ site.baseurl }}/images/post_img/TO_Winter_2026.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -30,5 +30,5 @@ A year in, I'm fairly satisfied with my move. There are negatives (I really do m
 
 ![Paris!]({{ site.url }}{{ site.baseurl }}/images/post_img/Paris_Beret.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-[^1]: For Germans, this is an almost sacrilegious amount of adventurousness. They get angry when I suggest toasting bread for *Abendbrot*. 
+[^1]: For Germans, this is an almost sacrilegious amount of culinary adventurousness. They get angry when I suggest toasting bread for *Abendbrot*. 
 [^2]: On the other hand, getting the car stuck in the snow and having to climb up to the observatory carrying bottles of butanol is also a novel experience... one I repeated several times...
