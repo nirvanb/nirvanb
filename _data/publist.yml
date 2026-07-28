@@ -1,3 +1,30 @@
+- title: "Impact of humidity on aerosol growth from methanesulfonic acid"
+  image: dummy.png
+  description: 
+  authors: W. Yu, R. Baalbaki, J. Shen, J. DeVivo, L. Caudillo-Plath, E. Sommer, A. Heitto, H. Klebach, D.M. Russell, A. Amorim, H. Beckmann, N. Bhattacharyya, V. Blankenship, A. Chassaing, R. Cruz-Simbron, L. Dada, A. Jacobshagen, B. Judmaier, M. Kaniyodical Sebastian, R. Konrat, T. Krüger, F. Kunkler, C.J. Lietzke, L. Liu, R.L. Mauldin, B. Mentler, A. Morawiec, P. Rato, B. Rörup, S. Ruhl, W. Scholz, M. Simon, A. Stinchfield, A. Tomé, Y. Tong, J. Top, N. Silas Umo, G.R. Unfer, L. Vettikkat, J. Weissbacher, C. Xenofontos, B. Yang, M. Zauner-Wieczorek, J. Zhang, Z. Zheng, T. Christoudias, J. Curtius, I. El Haddad, R.C. Flagan, A. Hansel, H. Harder, A. Kürten, O. Möhler, T. Petäjä, R. Volkamer, P.M. Winkler, D.R. Worsnop, M. Kulmala, N.M. Donahue, J. Kirkby, T. Yli-Juuti, I. Riipinen, X-C He, K. Lehtipalo. 
+  link:
+    url: https://doi.org/10.1039/d5ea00123d
+    display: ES:A (2026)
+  highlight: 0
+
+- title: "On describing particle nucleation within the Volatility Basis Set"
+  image: dummy.png
+  description: 
+  authors: N.M. Donahue, L. Dada, D. Stolzenburg, E. Sommer, M. Simon, M. Schervish, J. DeVivo, A. Stinchfield, N. Burton, N. Bhattacharyya, B. Lopez, M. Wang, W. Scholz, J. Almeida, B. Zhao, M. Heinritzi, H. Gordon, A. Hansel, J. Curtius, K. Lehtipalo, I. El Haddad, J. Kirkby, R. Flagan, M. Kulmala, D. Worsnop. 
+  link:
+    url: https://doi.org/10.5194/acp-26-8311-2026
+    display: ACP (2026)
+  highlight: 0
+
+- title: "Nucleation of α-pinene oxidation products with sulfuric acid"
+  image: dummy.png
+  description: 
+  authors: E. Sommer, J. Almeida, W. Yu, M. Simon, F. Möller, C. Xenofontos, A. Pozzer, Z. Zheng, N. Bhattacharyya, D. Alfaouri, S. Atabakhsh, R. Baalbaki, H. Beckmann, M. Berntheusel, P. Bogert, M. Busato, M. Canagaratna, L. Caudillo-Plath, A. Chassaing, R. Cruz-Simbron, L. Dada, J. DeVivo, J. Duplissy, H. Gordon, M. Granzin, L. Große Schute, H.G. Hartl, E. Hirvensalo, A. Jacobshagen, B. Judmaier, M. Kaniyodical Sebastian, H. Klebach, P. Koemets, M. Kohl, R. Konrat, T. Krüger, F. Kunkler, A. Kürten, M. Leiminger, C.J. Lietzke, L. Liu, R.L. Mauldin, B. Mentler, A. Morawiec, M. Müller, T. Petäjä, A. Pignatelli, P. Rato, T. Reinecke, S. Richter, B. Rörup, S. Ruhl, D.M. Russell, W. Scholz, J. Shen, A. Stinchfield, R.C. Thakur, Y. Tong, J. Top, N. Silas Umo, J. Weissbacher, B. Yang, M. Zauner-Wieczorek, J. Zhang, A. Amorim, U. Baltensberger, T. Christoudias, J. Curtius, N.M. Donahue, I. El Haddad, R.C. Flagan, A. Hansel, H. Harder, X-C He, H. Junninen, M. Kulmala, K. Lehtipalo, J. Lelieveld, O. Möhler, S. Schobesberger, A. Tomé, R. Volkamer, D.R. Worsnop, A. Onnela, P.M. Winkler, J. Kirkby. 
+  link:
+    url: https://doi.org/10.1039/d6ea00046k
+    display: ES:A (2026)
+  highlight: 0
+
 - title: "Isoprene chemistry under upper-tropospheric conditions"
   image: dummy.png
   description: 
