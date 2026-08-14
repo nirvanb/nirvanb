@@ -3,7 +3,7 @@ layout: post
 author: Nirvan Bhattacharyya
 ---
 
-*Mein Deutsch ist nicht so gut* is my most common German phrase. After a year, I can often stumble through my order at a bakery.[^1] But a singular question in response, and I *gucke wie ein Auto*[^2]. If I am feeling confident, I'll try a cheeky "*Das ist zu schnell!*" and go again. But most often, they switch to English and I am left knowing I am *nicht das Gelb vom Ei*[^3].
+*Mein Deutsch ist nicht so gut* is my most common German phrase. After a year, I can often stumble through my order at a bakery.[^1] But a singular question in response, and I *gucke wie ein Auto*[^2]. If I am feeling confident, I'll try a cheeky "*Das ist zu schnell!*" and go again. But most often, they switch to English and I am left knowing I am *nicht das Gelbe vom Ei*[^3].
 
 <img src="https://nirvanb.github.io/nirvanb/images/post_img/EiimEierbecher.jpeg" alt="Ein Ei" style="display:block; margin-left:auto; margin-right:auto" width="300">
 
