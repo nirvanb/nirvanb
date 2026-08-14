@@ -5,7 +5,7 @@ author: Nirvan Bhattacharyya
 
 *Mein Deutsch ist nicht so gut* is my most common German phrase. After a year, I can often stumble through my order at a bakery.[^1] But a singular question in response, and I am *wie ein Auto gucken*[^2]. If I am feeling confident, I'll try a cheeky "*Das ist zu schnell!*" and go again. But most often, they switch to English and I am left knowing I am *nicht das Gelb vom Ei*[^3].
 
-![Ein Ei]({{ site.url }}{{ site.baseurl }}/images/post_img/EiimEierbecher.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Ein Ei]({{ site.url }}{{ site.baseurl }}/images/post_img/EiimEierbecher.jpeg){:style="display:block; width:300; margin-left:auto; margin-right:auto"}
 
 I must confess, then, to love the self-checkout. At a grocery store, after understanding the legal complexities of [German bread law](https://www.deutsche-lebensmittelbuch-kommission.de/fileadmin/Dokumente/LS/leitsaetze_fuer_brot_und_kleingebaeck_barrierefrei_maerz_2026.pdf), the last thing I want is an unsuccessful conversation with a cashier. When getting takeout, it is a joy that the only German I need to know is "*Nummer vierundzwanzig!*"
 
