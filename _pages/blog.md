@@ -14,6 +14,7 @@ permalink: /blog/
     {% for post in site.posts %}
       <li>
         <h4><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>&nbsp;<i>{{ post.date | date_to_string }}</i></h4>
+        {{post.excerpt}}
       </li>
     {% endfor %}
   </ul>
