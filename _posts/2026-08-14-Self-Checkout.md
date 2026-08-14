@@ -11,7 +11,7 @@ I must confess, then, to love the self-checkout. At a grocery store, after under
 
 ![Apparently this isn't bread!]({{ site.url }}{{ site.baseurl }}/images/post_img/Semmel_2.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-I know, in theory, every opportunity to practice German and live like a local is valuable! But I have already lived without AC in a heatwave, and even occasionally eat *Abendbrot*.[^4] I go to lunch at exactly noon, I complain about Bavaria, I'm fitting in! The German people are blessedly are [not given to small talk](https://www.fluentu.com/blog/german/german-small-talk/). At the self-checkout, I have a chance to practice their most native language: silence. 
+I know, in theory, every opportunity to practice German and live like a local is valuable! But I have already lived without AC in a heatwave, and even occasionally eat *Abendbrot*.[^4] I go to lunch at exactly noon, I complain about Bavaria, I'm fitting in! The German people are blessedly [not given to small talk](https://www.fluentu.com/blog/german/german-small-talk/). At the self-checkout, I have a chance to practice their most native language: silence. 
 
 
 [^1]: I have yet to successfully order a *Marzipan Schnecke* and the problem isn't how I say *Schnecke*!
