@@ -1,9 +1,12 @@
 ---
 layout: post
 author: Nirvan Bhattacharyya
+excerpt_separator: <!--more-->
 ---
 
-German *Stein* are famous the world over[^0], huge glass or ceramic mugs, filled to the top with beer in by women in traditional *Dirndl*, men stuffed into lederhosen, or mustachioed hipsters in metal band t-shirts. In Germany, most glasses are more modest, with only a 0.3 or 0.5 liter capacity, though a [*Maßkrug*](https://de.wikipedia.org/wiki/Ma%C3%9Fkrug) can be a one or two liter monstrosity downed regularly at Oktoberfest. Germans are far from the only Europeans dedicated to the task of beer at volume. A half-liter cannette is my order of choice in Geneva[^1], while asking for a caneca gets you the same in Portugal. However, despite the popularity and existence of such drinking vessels, there's one thing they are never filled with at a bar or a restaurant: water.
+German *Stein* are famous the world over[^0], huge glass or ceramic mugs, filled to the top with beer in by women in traditional *Dirndl*, men stuffed into lederhosen, or mustachioed hipsters in metal band t-shirts. 
+<!--more-->
+In Germany, most glasses are more modest, with only a 0.3 or 0.5 liter capacity, though a [*Maßkrug*](https://de.wikipedia.org/wiki/Ma%C3%9Fkrug) can be a one or two liter monstrosity downed regularly at Oktoberfest. Germans are far from the only Europeans dedicated to the task of beer at volume. A half-liter cannette is my order of choice in Geneva[^1], while asking for a caneca gets you the same in Portugal. However, despite the popularity and existence of such drinking vessels, there's one thing they are never filled with at a bar or a restaurant: water.
 
 <img src="https://nirvanb.github.io/nirvanb/images/post_img/Masskrug_neutral.jpg" alt="A Maßkrug, sourced from Wikimedia Commons" style="display:block; margin-left:auto; margin-right:auto" width="300">
 
